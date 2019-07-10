@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/victorperin/check-time/issues"
   },
-  "homepage": "https://github.com/victorperin/check-time#readme"
+  "homepage": "https://github.com/victorperin/check-time#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
 }

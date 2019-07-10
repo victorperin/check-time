@@ -1,0 +1,24 @@
+{
+  "name": "check-ntp",
+  "version": "0.0.0",
+  "description": "check info on NTP and show the time difference between your clock and the server",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorperin/check-time.git"
+  },
+  "keywords": [
+    "ntp",
+    "cli",
+    "time"
+  ],
+  "author": "Victor Perin <me@victorperin.ninja>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorperin/check-time/issues"
+  },
+  "homepage": "https://github.com/victorperin/check-time#readme"
+}

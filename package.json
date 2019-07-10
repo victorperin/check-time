@@ -23,5 +23,8 @@
   "homepage": "https://github.com/victorperin/check-time#readme",
   "devDependencies": {
     "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "meow": "^5.0.0"
   }
 }
